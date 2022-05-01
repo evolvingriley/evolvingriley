@@ -2,7 +2,7 @@
 This is my work account. My personal github is [here](https://github.com/rileyseaburg)
 You can follow me on twitter too. [@rileyseaburg](https://twitter.com/rileyseaburg)
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C# & .net, Rust, and WebAssembly
+- 🌱 I’m currently learning Rust, Scala, and WebAssembly
 - 💞️ I’m looking to collaborate on Typscript / Rust Projects.
 - 📫 How to reach me riley@evolvingsoftware.io
 
